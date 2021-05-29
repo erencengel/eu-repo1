@@ -1,3 +1,5 @@
 EU5 is learning Git and Github
 
 EU5 like short videos
+
+Now I already published my local repository repo to GitHub.com, the connection is created
